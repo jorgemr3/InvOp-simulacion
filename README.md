@@ -4,4 +4,4 @@
 adquiridos por mi persona sobre las dos materias a lo largo de los semestres. Personalmente me gustan las matematicas aunque aveces soy un poco lento para aprender
 
 (ENG)This repository contains simple programs of my 5th and 6th semester subjects, Operations Research and Simulation respectively, I want to expose all my knowledge
-acquired about the two subjects throughout the semesters. Personally I like math but sometimes I am a bit slow to learn tho.
+acquired about the two subjects throughout the semesters. Personally I like math but sometimes Im a bit slow-learning person tho.
