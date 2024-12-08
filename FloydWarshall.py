@@ -1,4 +1,4 @@
-file = open("cosas d matrices/matriz.txt", "r")
+file = open("matriz.txt", "r")
 matriz = []
 for linea in file:
     elem = linea.strip().split(",")
